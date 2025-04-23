@@ -1,0 +1,15 @@
+C:\Users\m\Desktop\Inhertance\Metigator.OOP012.WithoutInInheritence\bin\Debug\net7.0\Metigator.OOP012.WithoutInInheritence.exe
+C:\Users\m\Desktop\Inhertance\Metigator.OOP012.WithoutInInheritence\bin\Debug\net7.0\Metigator.OOP012.WithoutInInheritence.deps.json
+C:\Users\m\Desktop\Inhertance\Metigator.OOP012.WithoutInInheritence\bin\Debug\net7.0\Metigator.OOP012.WithoutInInheritence.runtimeconfig.json
+C:\Users\m\Desktop\Inhertance\Metigator.OOP012.WithoutInInheritence\bin\Debug\net7.0\Metigator.OOP012.WithoutInInheritence.dll
+C:\Users\m\Desktop\Inhertance\Metigator.OOP012.WithoutInInheritence\bin\Debug\net7.0\Metigator.OOP012.WithoutInInheritence.pdb
+C:\Users\m\Desktop\Inhertance\Metigator.OOP012.WithoutInInheritence\obj\Debug\net7.0\Metigator.OOP012.WithoutInInheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m\Desktop\Inhertance\Metigator.OOP012.WithoutInInheritence\obj\Debug\net7.0\Metigator.OOP012.WithoutInInheritence.AssemblyInfoInputs.cache
+C:\Users\m\Desktop\Inhertance\Metigator.OOP012.WithoutInInheritence\obj\Debug\net7.0\Metigator.OOP012.WithoutInInheritence.AssemblyInfo.cs
+C:\Users\m\Desktop\Inhertance\Metigator.OOP012.WithoutInInheritence\obj\Debug\net7.0\Metigator.OOP012.WithoutInInheritence.csproj.CoreCompileInputs.cache
+C:\Users\m\Desktop\Inhertance\Metigator.OOP012.WithoutInInheritence\obj\Debug\net7.0\Metigator.OOP012.WithoutInInheritence.sourcelink.json
+C:\Users\m\Desktop\Inhertance\Metigator.OOP012.WithoutInInheritence\obj\Debug\net7.0\Metigator.OOP012.WithoutInInheritence.dll
+C:\Users\m\Desktop\Inhertance\Metigator.OOP012.WithoutInInheritence\obj\Debug\net7.0\refint\Metigator.OOP012.WithoutInInheritence.dll
+C:\Users\m\Desktop\Inhertance\Metigator.OOP012.WithoutInInheritence\obj\Debug\net7.0\Metigator.OOP012.WithoutInInheritence.pdb
+C:\Users\m\Desktop\Inhertance\Metigator.OOP012.WithoutInInheritence\obj\Debug\net7.0\Metigator.OOP012.WithoutInInheritence.genruntimeconfig.cache
+C:\Users\m\Desktop\Inhertance\Metigator.OOP012.WithoutInInheritence\obj\Debug\net7.0\ref\Metigator.OOP012.WithoutInInheritence.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Metigator.OOP012.WithoutInInheritence/1.0.0": {
+        "runtime": {
+          "Metigator.OOP012.WithoutInInheritence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Metigator.OOP012.WithoutInInheritence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
