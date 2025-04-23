@@ -1,0 +1,15 @@
+C:\Users\m\Desktop\polymarphism\Metigator.OOP.Polymorphism\bin\Debug\net7.0\Metigator.OOP.Polymorphism.exe
+C:\Users\m\Desktop\polymarphism\Metigator.OOP.Polymorphism\bin\Debug\net7.0\Metigator.OOP.Polymorphism.deps.json
+C:\Users\m\Desktop\polymarphism\Metigator.OOP.Polymorphism\bin\Debug\net7.0\Metigator.OOP.Polymorphism.runtimeconfig.json
+C:\Users\m\Desktop\polymarphism\Metigator.OOP.Polymorphism\bin\Debug\net7.0\Metigator.OOP.Polymorphism.dll
+C:\Users\m\Desktop\polymarphism\Metigator.OOP.Polymorphism\bin\Debug\net7.0\Metigator.OOP.Polymorphism.pdb
+C:\Users\m\Desktop\polymarphism\Metigator.OOP.Polymorphism\obj\Debug\net7.0\Metigator.OOP.Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m\Desktop\polymarphism\Metigator.OOP.Polymorphism\obj\Debug\net7.0\Metigator.OOP.Polymorphism.AssemblyInfoInputs.cache
+C:\Users\m\Desktop\polymarphism\Metigator.OOP.Polymorphism\obj\Debug\net7.0\Metigator.OOP.Polymorphism.AssemblyInfo.cs
+C:\Users\m\Desktop\polymarphism\Metigator.OOP.Polymorphism\obj\Debug\net7.0\Metigator.OOP.Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\m\Desktop\polymarphism\Metigator.OOP.Polymorphism\obj\Debug\net7.0\Metigator.OOP.Polymorphism.sourcelink.json
+C:\Users\m\Desktop\polymarphism\Metigator.OOP.Polymorphism\obj\Debug\net7.0\Metigator.OOP.Polymorphism.dll
+C:\Users\m\Desktop\polymarphism\Metigator.OOP.Polymorphism\obj\Debug\net7.0\refint\Metigator.OOP.Polymorphism.dll
+C:\Users\m\Desktop\polymarphism\Metigator.OOP.Polymorphism\obj\Debug\net7.0\Metigator.OOP.Polymorphism.pdb
+C:\Users\m\Desktop\polymarphism\Metigator.OOP.Polymorphism\obj\Debug\net7.0\Metigator.OOP.Polymorphism.genruntimeconfig.cache
+C:\Users\m\Desktop\polymarphism\Metigator.OOP.Polymorphism\obj\Debug\net7.0\ref\Metigator.OOP.Polymorphism.dll
